@@ -86,9 +86,6 @@ def getCVE_detail():        # 1_cve.log 파일에서 cvedetails.com 데이터 �
             #saveFile.close()
             continue
         else:
-            #saveFile = open(file_fil,"a")
-            #saveFile.write(line+',')
-            #saveFile.close()
             fil_cve()
 
 
