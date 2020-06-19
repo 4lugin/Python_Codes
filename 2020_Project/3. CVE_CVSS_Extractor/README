@@ -1,0 +1,5 @@
+
+1. 페이지 내 CVE값 추출
+2. CVE의 CVSS 알아내기
+3. Redhat API 서버를 이용해 CVE 추출 후 CVSS 알아내기
+
