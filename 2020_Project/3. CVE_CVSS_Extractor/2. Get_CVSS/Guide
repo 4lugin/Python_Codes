@@ -1,0 +1,6 @@
+
+## 사용방법
+
+1. input_cve_result.log 파일에 CVE 값 저장
+2. 스크립트 실행 후 CVSS 값 [+]cvss3_result.log 에 저장
+
