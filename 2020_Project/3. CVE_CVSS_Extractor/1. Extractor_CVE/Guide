@@ -1,0 +1,6 @@
+
+## 사용방법
+
+1. input_cve.log 파일 신규생성 후 파싱할 원본 데이터 저장
+2. 스크립트 실행 후 input_cve_result.log 파일에 추출된 CVE 값 저장
+
