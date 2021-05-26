@@ -36,8 +36,6 @@ except_list = [
 
 
 ## Main
-cnt = 0
-
 for line in lines:
   cnt = 0
   if cnt < 1:
